@@ -6,6 +6,6 @@ package com.transsnet.enum_study;
  */
 public class MainTest {
     public static void main(String[] args) {
-
+        System.out.println(SentinelCheckpoint1.LATEST.toString());
     }
 }
